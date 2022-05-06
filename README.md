@@ -1,4 +1,4 @@
-# ISC-3313 Introduction to Scientific Computing (Summer 2019)
+# ISC-3313 Introduction to Scientific Computing (Summer 2022)
 
 __NOTE__: The master branch contains the most recent version of ISC-3313. 
 If you are looking for previous version make sure to switch to the appropriate branch.
@@ -10,19 +10,18 @@ All content for this course can be viewed online using the link above.
 
 ### Course Information
 
-**Time**: Tu/Th 11:00am - 12:15pm
+**Time**: Tu/Th 11:30am - 12:45pm
 
 **Location**: DSL 0152
 
-**Dates**: May 14 – Aug 3 (12 weeks)
+**Dates**: May 09 – July 29 (12 weeks)
 
 ### Instructor Information
 
-**Name**: Eitan Lees
+**Name**: Pankaj Chouhan
 
-**Email**: elees@fsu.edu
+**Email**: pc19d@fsu.edu
 
-**Office Hours**: by appointment (please email)
 
 ### Course Outline
 We will cover the basics of programming with python as well as some more advanced features. The
@@ -58,7 +57,7 @@ In addition to the outline above, we will have select lectures on specific math 
 ### Acknowledgements
 
 Special thanks to:
-
+- [Eitan lees](https://github.com/eitanlees) for the course material.
 - [Jake VanderPlas](https://jakevdp.github.io/) for many of the materials that have gone into this course. 
     Specifically his work:
     - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
