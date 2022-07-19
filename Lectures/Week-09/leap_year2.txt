@@ -1,0 +1,24 @@
+2017 is not a leap year
+1900 is not a leap year
+2012 is a leap year
+2000 is a leap year
+1111 is not a leap year
+1554 is not a leap year
+1315 is not a leap year
+1342 is not a leap year
+1520 is a leap year
+1988 is a leap year
+1834 is not a leap year
+1319 is not a leap year
+1739 is not a leap year
+1846 is not a leap year
+1282 is not a leap year
+1891 is not a leap year
+1260 is a leap year
+1488 is a leap year
+1911 is not a leap year
+2009 is not a leap year
+1772 is a leap year
+1048 is a leap year
+1428 is a leap year
+1150 is not a leap year
