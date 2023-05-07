@@ -1,4 +1,4 @@
-# ISC-3313 Introduction to Scientific Computing (Summer 2022)
+# ISC-3313 Introduction to Scientific Computing (Summer 2023)
 
 
 ### [View Content Online](http://nbviewer.jupyter.org/github/eitanlees/ISC-3313/tree/master/)
