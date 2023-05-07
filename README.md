@@ -11,7 +11,7 @@ All content for this course can be viewed online using the link above.
 
 **Location**: DSL 0152
 
-**Dates**: May 09 – July 29 (12 weeks)
+**Dates**: May 15 – August 4 (12 weeks)
 
 ### Instructor Information
 
@@ -59,5 +59,4 @@ Special thanks to:
     Specifically his work:
     - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
     - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [Lukas Bystricky](http://people.sc.fsu.edu/~lb13f/) for his advice and mentoring.
 - and lastly the [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) for many examples and explanations.
